@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/EGLABS/GamerKey-V.1">
     <img src="images/Banner.jpg" alt="Logo" width="450" height="240">
   </a>
 
@@ -41,14 +41,12 @@
   <p align="center">
     Programmable Gaming Keyring
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/EGLABS/GamerKey-V.1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/EGLABS/GamerKey-V.1">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </p>
 
