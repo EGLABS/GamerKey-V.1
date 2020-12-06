@@ -157,7 +157,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Shibin.A - [shibin@evilgeniuslaboratory.com](shibin@evilgeniuslaboratory.com) - email
+Shibin.A - [shibin@evilgeniuslaboratory.com](mailto:shibin@evilgeniuslaboratory.com) - email
 
 Project Link: [https://github.com/EGLABS/GamerKey-V.1](https://github.com/EGLABS/GamerKey-V.1)
 
