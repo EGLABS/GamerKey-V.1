@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/EGLABS/GamerKey-V.1">
-    <img src="images/Banner.jpg" alt="Logo" width="600" height="320">
+    <img src="images/Banner.jpg" alt="Logo" width="750" height="400">
   </a>
 
   <h3 align="center">GamerKey V.1</h3>
